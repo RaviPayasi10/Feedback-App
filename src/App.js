@@ -31,6 +31,9 @@ import { FeedbackProvider } from './context/FeedbackContext'
 // Set-ExecutionPolicy Restricted
 // Restart your system.
 
+
+// npm run dev
+
 function App() {
     // const [feedback, setFeedback] = useState(FeedbackData)
 
